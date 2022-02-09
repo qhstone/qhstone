@@ -1,13 +1,13 @@
-Quintin H Stone.
+Quintin H Stone
 
-Author of
+Author of:
 
--Gunslinger (Quake 2)
+- Gunslinger (Quake 2)
 
--Night's Edge: Wet Works (Unreal Tournament)
+- Night's Edge: Wet Works (Unreal Tournament)
 
--Scavenger (TADS2)
+- Scavenger (TADS2)
 
--Q's Windhelm Basement (Skyrim)
+- Q's Windhelm Basement (Skyrim)
 
--Q's Mannequins and More (Skyrim)
+- Q's Mannequins and More (Skyrim)
